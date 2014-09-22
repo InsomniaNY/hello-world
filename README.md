@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Tutorial repository
+The is a readme file just to learn the basics of GitHub.
